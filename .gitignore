@@ -1,0 +1,14 @@
+# SFDX
+.sfdx/
+.sf/
+.localdevserver/
+
+# Node
+node_modules/
+.npm/
+
+# Editor
+.vscode/settings.json
+*.swp
+*.swo
+.DS_Store
